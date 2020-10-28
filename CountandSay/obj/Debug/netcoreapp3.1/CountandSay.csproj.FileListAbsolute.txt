@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\bin\Debug\netcoreapp3.1\CountandSay.exe
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\bin\Debug\netcoreapp3.1\CountandSay.deps.json
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\bin\Debug\netcoreapp3.1\CountandSay.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\bin\Debug\netcoreapp3.1\CountandSay.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\bin\Debug\netcoreapp3.1\CountandSay.dll
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\bin\Debug\netcoreapp3.1\CountandSay.pdb
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\obj\Debug\netcoreapp3.1\CountandSay.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\obj\Debug\netcoreapp3.1\CountandSay.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\obj\Debug\netcoreapp3.1\CountandSay.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\obj\Debug\netcoreapp3.1\CountandSay.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\obj\Debug\netcoreapp3.1\CountandSay.dll
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\obj\Debug\netcoreapp3.1\CountandSay.pdb
+C:\Users\monisha.khapali\source\repos\CountandSay\CountandSay\obj\Debug\netcoreapp3.1\CountandSay.genruntimeconfig.cache
